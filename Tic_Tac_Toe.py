@@ -1,7 +1,4 @@
- 
-# Milestone Project 1: Walkthrough Steps Workbook
-# 
-# Below is a set of steps for you to follow to try to create the Tic Tac Toe Milestone Project game!
+# Below is a set of steps for you to follow to try to create the Tic Tac Toe game!
 
 # #### Some suggested tools before you get started:
 # To take input from a user:
